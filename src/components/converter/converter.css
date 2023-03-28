@@ -5,16 +5,3 @@
     margin-top: 100px;
     font-size: 20px;
 }
-
-.converter__right{
-    margin: 50px;
-}
-
-.converter__left {
-    margin: 50px;
-}
-
-.converter__left_input, .converter__right_input {
-    margin-right: 20px;
-    padding: 0 10px;
-}
